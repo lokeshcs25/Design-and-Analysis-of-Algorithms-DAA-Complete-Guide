@@ -1585,14 +1585,6 @@ Princeton Algorithms (Coursera) — Sedgewick — Java-based, visuals
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-- Found a proof error? Please open an issue with a correction.
-- Want to add a new algorithm with analysis? Open a PR.
-- Spot a missing classic problem? Suggest it via issue.
-
----
 
 ## ⭐ Star this repo if it helped you!
 
